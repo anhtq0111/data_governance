@@ -1,0 +1,5 @@
+{
+    "requestUrl_for_summoner": ["https://vn2.api.riotgames.com/lol/summoner/v4/summoners/by-name/const%20Nghi%E1%BB%87n?api_key={api_key}","https://vn2.api.riotgames.com/lol/summoner/v4/summoners/by-name/const%20Nghi%E1%BB%87n?api_key={api_key}"],
+    "requestUrl_for_matchIds": "https://sea.api.riotgames.com/lol/match/v5/matches/by-puuid/{puuid}/ids?type=ranked&start=0&count=100&api_key={api_key}",
+    "requestUrl_for_matchInfor_byId": "https://sea.api.riotgames.com/lol/match/v5/matches/{matchIds}?api_key={api_key}"
+}
